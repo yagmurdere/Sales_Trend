@@ -1,0 +1,51 @@
+﻿Müşteri No,Müşteri Tipi,Yaş,Cinsiyet,Satın Alınan Marka,Satın Alınan Araç Modeli,Gövde Tipi,Motor / Yakıt Tipi,Donanım Paketi,Satış Fiyatı (TL),Ödeme Yöntemi,Kampanya Uygulandı mı?,Satın Alma Tarihi,Satın Alma Ayı,Satın Alma Saati,Satın Alındığı Bayi İli,Tedarik Süresi (Gün),Stokta Bekleme Süresi (Gün),Satış Anındaki Bayi Stoğu
+Musteri_1001,Bireysel,38,Erkek,Land Rover,Range Rover Sport,SUV,Hybrid,Standard,9800000,Kredi,Hayır,2025-04-25,April,09:47,Ankara,9,4,1
+Musteri_1002,Kurumsal (Filo),-,Kadın,BMW,BMW X5,SUV,Hybrid,Luxury Line,8550000,Takas + Kredi,Evet,2026-06-02,June,09:35,Ankara,17,47,6
+Musteri_1003,Bireysel,29,Erkek,BMW,BMW 420i Gran Coupe,Coupé,Benzinli,Standard,3750000,Takas + Kredi,Hayır,2025-06-09,June,12:48,Bursa,45,19,12
+Musteri_1004,Bireysel,59,Erkek,Land Rover,Range Rover Velar,SUV,Benzinli,First Edition,6200000,Takas + Kredi,Evet,2026-04-16,April,17:07,İzmir,11,5,10
+Musteri_1005,Kurumsal (Filo),-,Kadın,BMW,BMW 420i Gran Coupe,Coupé,Benzinli,Luxury Line,3850000,Takas + Kredi,Evet,2025-03-23,March,12:55,İzmir,30,25,3
+Musteri_1006,Bireysel,53,Kadın,Land Rover,Range Rover Velar,SUV,Benzinli,M Sport / S-Line,6250000,Nakit,Hayır,2025-03-15,March,11:34,Bursa,10,17,0
+Musteri_1007,Bireysel,65,Erkek,MINI,MINI Countryman,SUV,Hybrid,Luxury Line,2750000,Takas + Nakit,Evet,2025-10-02,October,10:13,Bursa,23,11,3
+Musteri_1008,Kurumsal (Filo),-,Erkek,Land Rover,Range Rover Velar,SUV,Benzinli,Executive,6200000,Takas + Nakit,Evet,2026-08-22,August,15:57,Ankara,10,58,1
+Musteri_1009,Kurumsal (Filo),-,Kadın,Land Rover,Range Rover Sport,SUV,Hybrid,First Edition,9750000,Takas + Nakit,Hayır,2025-06-13,June,15:38,Bursa,42,58,0
+Musteri_1010,Bireysel,42,Erkek,Land Rover,Range Rover Sport,SUV,Hybrid,Executive,9800000,Takas + Nakit,Evet,2026-07-04,July,13:49,Bursa,23,35,12
+Musteri_1011,Bireysel,47,Kadın,Jaguar,Jaguar I-PACE,SUV,Elektrikli,First Edition,4250000,Kredi,Hayır,2025-04-19,April,13:53,Ankara,38,4,1
+Musteri_1012,Bireysel,55,Kadın,BMW,BMW 420i Gran Coupe,Coupé,Benzinli,First Edition,3850000,Nakit,Evet,2025-09-03,September,09:15,İstanbul,37,38,2
+Musteri_1013,Kurumsal (Filo),-,Kadın,Jaguar,Jaguar I-PACE,SUV,Elektrikli,M Sport / S-Line,4150000,Takas + Nakit,Hayır,2026-03-10,March,12:59,Bursa,14,18,3
+Musteri_1014,Bireysel,28,Kadın,MINI,MINI Cooper 3 Door,Hatchback,Benzinli,Standard,1850000,Nakit,Evet,2025-01-22,January,17:14,Adana,9,58,5
+Musteri_1015,Bireysel,58,Erkek,Jaguar,Jaguar I-PACE,SUV,Elektrikli,First Edition,4200000,Takas + Nakit,Evet,2025-09-01,September,13:42,Ankara,37,54,6
+Musteri_1016,Kurumsal (Filo),-,Erkek,BMW,BMW 520i,Sedan,Benzinli,Standard,5050000,Kredi,Evet,2025-04-10,April,15:22,Bursa,32,49,5
+Musteri_1017,Bireysel,51,Erkek,BMW,BMW X5,SUV,Hybrid,M Sport / S-Line,8450000,Takas + Nakit,Evet,2025-07-16,July,12:34,Ankara,11,31,12
+Musteri_1018,Bireysel,50,Kadın,BMW,BMW 320i,Sedan,Benzinli,Luxury Line,3150000,Nakit,Hayır,2026-07-08,July,09:05,Bursa,10,13,6
+Musteri_1019,Kurumsal (Filo),-,Erkek,MINI,MINI Countryman,SUV,Hybrid,Executive,2650000,Takas + Kredi,Evet,2025-09-29,September,16:18,Ankara,10,40,11
+Musteri_1020,Bireysel,27,Erkek,Land Rover,Range Rover Velar,SUV,Benzinli,Standard,6200000,Nakit,Evet,2025-11-18,November,09:03,Antalya,45,7,10
+Musteri_1021,Bireysel,50,Kadın,MINI,MINI Countryman,SUV,Hybrid,First Edition,2750000,Takas + Kredi,Hayır,2025-05-03,May,12:37,Adana,20,45,11
+Musteri_1022,Kurumsal (Filo),-,Erkek,BMW,BMW X5,SUV,Hybrid,Standard,8500000,Kredi,Hayır,2025-09-29,September,15:08,İzmir,43,9,1
+Musteri_1023,Bireysel,39,Erkek,Jaguar,Jaguar I-PACE,SUV,Elektrikli,M Sport / S-Line,4150000,Nakit,Hayır,2025-09-29,September,11:59,İzmir,41,48,4
+Musteri_1024,Bireysel,40,Kadın,Land Rover,Range Rover Sport,SUV,Hybrid,Standard,9850000,Nakit,Hayır,2026-07-22,July,13:59,İstanbul,25,41,3
+Musteri_1025,Bireysel,29,Erkek,BMW,BMW X5,SUV,Hybrid,Luxury Line,8500000,Takas + Kredi,Evet,2025-09-28,September,17:31,Adana,7,24,12
+Musteri_1026,Kurumsal (Filo),-,Erkek,Land Rover,Range Rover Sport,SUV,Hybrid,Standard,9850000,Kredi,Evet,2025-09-26,September,11:47,Antalya,16,37,0
+Musteri_1027,Bireysel,43,Kadın,Land Rover,Land Rover Defender,SUV,Dizel,Standard,7850000,Takas + Kredi,Evet,2026-07-20,July,11:27,İzmir,22,45,1
+Musteri_1028,Bireysel,35,Kadın,Jaguar,Jaguar I-PACE,SUV,Elektrikli,Standard,4200000,Nakit,Hayır,2026-02-21,February,11:59,Bursa,33,54,10
+Musteri_1029,Kurumsal (Filo),-,Kadın,BMW,BMW 420i Gran Coupe,Coupé,Benzinli,Executive,3800000,Takas + Nakit,Hayır,2025-06-13,June,10:24,Ankara,26,55,12
+Musteri_1030,Kurumsal (Filo),-,Erkek,BMW,BMW X5,SUV,Hybrid,M Sport / S-Line,8450000,Takas + Kredi,Hayır,2025-01-25,January,12:25,İstanbul,41,24,0
+Musteri_1031,Kurumsal (Filo),-,Kadın,BMW,BMW 420i Gran Coupe,Coupé,Benzinli,M Sport / S-Line,3800000,Takas + Nakit,Evet,2025-07-02,July,13:02,İzmir,31,60,9
+Musteri_1032,Kurumsal (Filo),-,Kadın,BMW,BMW 420i Gran Coupe,Coupé,Benzinli,Standard,3850000,Takas + Kredi,Hayır,2025-02-15,February,15:00,Bursa,14,49,4
+Musteri_1033,Bireysel,36,Erkek,Land Rover,Range Rover Sport,SUV,Hybrid,Luxury Line,9850000,Nakit,Hayır,2026-02-23,February,14:25,Bursa,32,38,0
+Musteri_1034,Kurumsal (Filo),-,Erkek,BMW,BMW 420i Gran Coupe,Coupé,Benzinli,Luxury Line,3850000,Nakit,Hayır,2025-08-04,August,15:50,Bursa,17,45,1
+Musteri_1035,Kurumsal (Filo),-,Kadın,Jaguar,Jaguar I-PACE,SUV,Elektrikli,Executive,4150000,Nakit,Evet,2025-12-10,December,10:52,Ankara,9,18,7
+Musteri_1036,Kurumsal (Filo),-,Erkek,MINI,MINI Aceman,Coupé,Elektrikli,Executive,2300000,Nakit,Evet,2026-03-01,March,12:45,Bursa,13,52,6
+Musteri_1037,Bireysel,53,Kadın,BMW,BMW iX3,SUV,Elektrikli,Luxury Line,4700000,Takas + Kredi,Hayır,2026-06-15,June,16:03,Ankara,39,30,8
+Musteri_1038,Kurumsal (Filo),-,Kadın,BMW,BMW iX3,SUV,Elektrikli,Luxury Line,4650000,Nakit,Hayır,2026-05-02,May,16:16,Antalya,35,7,11
+Musteri_1039,Bireysel,33,Kadın,BMW,BMW X5,SUV,Hybrid,Luxury Line,8550000,Nakit,Evet,2025-10-06,October,14:20,Ankara,11,29,6
+Musteri_1040,Kurumsal (Filo),-,Kadın,Jaguar,Jaguar I-PACE,SUV,Elektrikli,First Edition,4250000,Kredi,Hayır,2026-04-23,April,15:03,Bursa,37,3,5
+Musteri_1041,Kurumsal (Filo),-,Kadın,MINI,MINI Countryman,SUV,Hybrid,M Sport / S-Line,2800000,Takas + Nakit,Hayır,2026-03-06,March,17:47,Ankara,8,27,5
+Musteri_1042,Bireysel,49,Kadın,Land Rover,Range Rover Velar,SUV,Benzinli,First Edition,6200000,Kredi,Evet,2025-06-19,June,16:58,Antalya,34,11,7
+Musteri_1043,Kurumsal (Filo),-,Kadın,BMW,BMW 320i,Sedan,Benzinli,M Sport / S-Line,3300000,Takas + Nakit,Hayır,2025-09-24,September,15:20,İzmir,33,19,1
+Musteri_1044,Bireysel,65,Kadın,BMW,BMW 320i,Sedan,Benzinli,Standard,3200000,Nakit,Evet,2026-07-07,July,09:22,İstanbul,8,42,2
+Musteri_1045,Kurumsal (Filo),-,Kadın,BMW,BMW iX3,SUV,Elektrikli,M Sport / S-Line,4550000,Takas + Kredi,Evet,2026-04-30,April,10:36,Adana,45,41,11
+Musteri_1046,Kurumsal (Filo),-,Kadın,BMW,BMW iX3,SUV,Elektrikli,Luxury Line,4600000,Takas + Nakit,Evet,2025-11-15,November,10:37,Antalya,11,40,11
+Musteri_1047,Kurumsal (Filo),-,Kadın,BMW,BMW 520i,Sedan,Benzinli,Luxury Line,5050000,Takas + Kredi,Evet,2025-11-05,November,10:50,Antalya,39,44,5
+Musteri_1048,Kurumsal (Filo),-,Erkek,MINI,MINI Countryman,SUV,Hybrid,Executive,2800000,Takas + Nakit,Evet,2026-05-17,May,10:27,Adana,40,44,4
+Musteri_1049,Bireysel,41,Kadın,MINI,MINI Aceman,Coupé,Elektrikli,Executive,2350000,Takas + Nakit,Hayır,2026-03-23,March,13:20,Bursa,28,4,7
+Musteri_1050,Kurumsal (Filo),-,Erkek,BMW,BMW iX3,SUV,Elektrikli,First Edition,4600000,Takas + Kredi,Evet,2026-05-15,May,12:22,İzmir,40,15,1
